@@ -54,6 +54,8 @@ Seer has park cross.
 
 Seer has major.
 
+Seer seer is most seer.
+
 Seer word has spell.
 The spell is:
 "S" for Sera Class.
