@@ -58,7 +58,7 @@ Seer seer is most seer.
 
 Seer word has spell.
 The spell is:
-"S" for Sera Class.
+"S" for Song Class.
 "e" for emit mine.
 "e" for effect any.
 "r" for radius total.
