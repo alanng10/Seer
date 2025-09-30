@@ -54,6 +54,8 @@ Seer has park cross.
 
 Seer has major.
 
+Seer is most info gain.
+
 Seer seer is most seer.
 
 Seer word has spell.
