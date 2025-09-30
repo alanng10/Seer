@@ -53,3 +53,10 @@ Seer has park mark.
 Seer has park cross.
 
 Seer has major.
+
+Seer word has spell.
+The spell is:
+"S" for Sera Class.
+"e" for emit mine.
+"e" for effect any.
+"r" for radius total.
