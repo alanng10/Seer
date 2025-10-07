@@ -54,8 +54,6 @@ Seer has park cross.
 
 Seer has major.
 
-Seer is most info gain.
-
 Seer is most mine gain.
 
 Seer seer is most seer.
