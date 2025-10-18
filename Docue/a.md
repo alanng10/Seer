@@ -54,13 +54,9 @@ Seer has park cross.
 
 Seer has major.
 
-Seer is most mine gain.
-
-Seer seer is most seer.
-
 Seer word has spell.
 The spell is:
-"S" for Song Class.
+"S" for Song Major.
 "e" for emit mine.
 "e" for effect any.
 "r" for radius total.
